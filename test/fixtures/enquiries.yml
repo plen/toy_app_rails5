@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: MyString
+  enquiry_date: 2016-09-25 15:48:34
+  pax: 1
+  max_cost: 1
+  min_cost: 1
+
+two:
+  user_id: MyString
+  enquiry_date: 2016-09-25 15:48:34
+  pax: 1
+  max_cost: 1
+  min_cost: 1
